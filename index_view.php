@@ -1,130 +1,138 @@
-<div class="banner-content text-center text-white">
-  <h1>Bienvenido</h1>
-  <br>
-</div>
 
-<div class="banner-content text-center text-white">
-  <p class="p">
-  El registro Público de la Propiedad del estado de Guanauato es una institución de la Secretaría de Gobierno 
-  <br>del Estado de Guanajuato que tiene como fin da publiciad a los actos que conforme a la ley lo requieran para
-  <br>surtir efectos contra terceros.
-  </p>
-  <p class="p">
-  <br>Con el fin de brindar un mejor servicio en este portal se pone a su disposición la información necesaria para
-  <br>conocer y realizar cualquier trámite ante el Registro Público de la Propiedad y del Registro Público de Comercio.
+<div class="container">
+<div class="in">
 
-  </p>
-</div>
+<!-- //////////////////////////BANNER INDEX//////////////////////////////////// -->
+<div id="bannerindex">
+<ul id="slider3" class="rslides rslides1" style="max-width: 960px;">
+<li id="rslides1_s0" class="rslides1_on" style="display: list-item; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 500ms ease-in-out;"><a href=""><img src="../dist/images/Nota-2-Semana-51.jpg"></a></li>
+<!--<li><a href="p-defensoria.php"><img src="images/responsiveslider/02.jpg"></a></li>-->
+<li id="rslides1_s1" style="display: list-item; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;" class=""><a href=""><img src=""></a></li>
+<li id="rslides1_s2" style="display: list-item; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;" class=""><a href=""><img src=""></a></li>
+</ul>
 
-  <!-- INFORMACIÓN AL USUARIO -->
-<div id="services" class="container-fluid text-center">
-  <h2>INFORMACIÓN Y FORMATOS</h2>
-  <br>
-  <div class="row slideanim">
-    
-    <a href="views/tree.php">
-      <div class="col-sm-4">
-        <span class="glyphicon glyphicon-home logo-small"></span>
-        <h4>OFICINAS</h4>
-        <p>Registro Público</p>
-      </div>
-    </a>
+<ul id="slider3-pager" class="rslides_tabs rslides1_tabs">
+<li class="rslides1_s1 rslides_here"><a href="#">PRUEBA 1</a></li>
+<!--<li><a href="#">Defensoria pública</a></li>-->
+<li class="rslides1_s2"><a href="#">PRUEBA 2</a></li>
+<li class="rslides1_s3"><a href="#">PRUEBA 3</a></li>
+</ul>
+</div><!--Banner Index-->
 
-    <a href="http://www.rppc.guanajuato.gob.mx/directorio/">
-      <div class="col-sm-4">
-        <span class="glyphicon glyphicon-book logo-small"></span>
-        <h4>NOTARÍAS</h4>
-        <p>Directorio Notarial</p>
-      </div>
-    </a>
-    <a href="views/normatividad.php">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-list-alt logo-small"></span>
-      <h4>NORMATIVIDAD</h4>
-      <p>Formatos</p>
-    </div>
-    </div>
-    </a>
+<!-- ////////////////////////////////////////SERVICIOS////////////////////////////////////////////// -->
 
-  <br><br>
-  <div class="row slideanim">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-leaf logo-small"></span>
-      <h4>ESTRADOS</h4>
-      <p>Trámites Registrales</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-certificate logo-small"></span>
-      <h4>VALIDACIÓN</h4>
-      <p>Boletas de Resolución</p>
-    </div>
-    <div class="col-  sm-4">
-      <a href="http://finanzas.guanajuato.gob.mx/c_calendario/index.php">
-      <span class="glyphicon glyphicon-calendar logo-small"></span>
-      <h4 style="color:#303030;">CALENDARIO</h4>
-      <p>Vigente para las dependencias del Poder Ejecutivo</p>
-      </a>
-    </div>
-  </div>
-</div>
+<ul id="serviciospaneles">
+<!-- segurenet -->
+<li>
+<a href="views/segurenet.php">
+<img src="../dist/images/sn2.png" width="110" height="100">
+</a>
+</li>
+<!-- Consulta Remota -->
+<li>
+<a href="views/consultaremota.php">
+<img src="../dist/images/global-search-icon.jpg">
+</a>
+</li>
+<!-- Precaptura -->
+<li>
+<a href="http://www.erpp.guanajuato.gob.mx/precaptura/">
+<img src="../dist/images/gto1.gif">
+</a>
+</li>
+<!-- SIGER -->
+<li>
+<a href="http://www.siger.gob.mx/">
+<img src="../dist/images/mex.gif">
+</a>
+</li>
+<!-- pagos de certificados en linea -->
+<li>
+<a href="">
+<img src="../dist/images/pagos-en-lc3adnea-de-la-alcaldc3ada-de-manizales.png">
+</a>
+</li>
+<!-- Tramites y servicios -->
+<li>
+<a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/">
+<img src="../dist/images/banner02.jpg">
+</a>
+</li>
 
-<!-- SERVICIOS -->
-<div id="services" class="container-fluid text-center">
-  <h2>SERVICIOS</h2>
-  <br>
-  <br>
-  <div class="row slideanim">
-    
-    <a href="views/segurenet.php">
-      <div class="col-sm-4">
-        <span class="glyphicon glyphicon-modal-window logo-small"></span>
-        <h4>SEGUREnet</h4>
-        <p></p>
-      </div>
-    </a>
+</ul>
+<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
 
-    <a href="views/consultaremota.php">
-      <div class="col-sm-4">
-        <span class="glyphicon glyphicon-globe logo-small"></span>
-        <h4>Consulta Remota</h4>
-        <p>Notarías y Particulares</p>
-      </div>
-    </a>
+<div class="direcciones">
 
-    <a href="http://www.erpp.guanajuato.gob.mx/precaptura/">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-check logo-small"></span>
-      <h4>PRECAPTURA</h4>
-      <p>Precatura en Línea</p>
-    </div>
-    </a>
-  </div>
+<ul class="direccionesmenu">
+<li>Direcciones</li>
+<li><a href="/">Registro Público</a></li>
+<li><a href="views/normatividad.php">Normatividad</a></li>
+<li><a href="/">Estrados</a></li>
+<li><a href="http://finanzas.guanajuato.gob.mx/c_calendario/index.php">Calendario</a></li>
+<li><a href="">Defensoría pública</a></li><!-- 
+<li><a href="p-tenenciadelatierra.php">Tenencia de la tierra</a></li>
+<li><a href="http://periodico.guanajuato.gob.mx/">Periódico Oficial</a></li> -->
+</ul>
 
-  <br>
-  <br>
+<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
+
+<ul class="direccionespaneles">
   
-  <div class="row slideanim">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-folder-open logo-small"></span>
-      <h4>SOLICITUD DE CERTIFICADOS</h4>
-      <p>Con pago en línea</p>
-    </div>
+<li class="random"><p>
+<img src="images/direccionpanel1.jpg">
+<strong>Normatividad...</strong><br>
+  La información contenida en esta página,relativa a la normatividad estatal y municipal del estado de 
+  Guanajuato es exclusivamente para difusión y consulta, su finalidad es proporcionar al usuario una
+  herramienta útil y fácil acceso, por lo que de ninguna manera constituye una publicación oficial con 
+  validez legal.</p>
+  <a href="views/normatividad.php">Ver más</a></li>
 
-    <a href="http://www.siger.gob.mx/">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-link logo-small"></span>
-      <h4>Siger</h4>
-      <p>Sistema Integral de Gestión Registral</p>
-    </div>
-    </a>
+<li class="random"><p>
+<img src="images/direccionpanel2.jpg">
+<strong>Estrados</strong><br>
+Conoce los requisitos que necesitas para obtener tu licencia de conducir, permisos para circular y todo lo referente al Transporte Público de competencia estatal.
+</p><a href="p-transporte.php">Ver más</a></li>
 
-    <a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-th-list logo-small"></span>
-      <h4>Trámites y Servicios</h4>
-      <p>Secretaría de la Transparencia y Rendición de Cuentas</p>
-    </div>
-    </a>
-  </div>
- 
-</div>
+<li class="random"><p>
+<img src="images/direccionpanel3.jpg">
+<strong>Validación</strong><br>
+Boletas de Resolución.</p>
+<a href="p-registropublico.php">Ver más</a></li>
+
+
+<li class="random"><p>
+<img src="images/direccionpanel4.jpg">
+<strong>Calendario</strong><br>
+Vigente para las dependencias del Poder Ejecutivo</p>
+<a href="http://finanzas.guanajuato.gob.mx/c_calendario/index.php">Ver más</a></li>
+
+
+
+<li class="random"><p>
+<img src="images/direccionpanel5.jpg">
+<strong>Defensoria</strong><br>
+Si necesitas apoyo  para cualquier asunto de carácter legal, aquí encontraras ayuda profesional gratuita.
+</p><a href="p-defensoria.php">Ver más</a></li>
+
+
+<li class="random"><p>
+<img src="images/direccionpanel6.jpg">
+<strong>Tenencia de la tierra</strong><br>
+Si vives o eres propietario de un predio irregular aquí podrás obtener ayuda para regularízalo  y tener certeza jurídica de tu patrimonio y el de tu familia.</p><a href="p-tenenciadelatierra.php">Ver más</a></li>
+
+</ul>
+
+</div><!-- Direcciones -->
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
+
+<ul class="botones">
+<li><a href="http://transparencia.guanajuato.gob.mx/" target="_blank">
+  <img src="images/boton-transparencia.jpg"></a></li><li><a href="http://normatividadestatalymunicipal.guanajuato.gob.mx/index.php" target="_blank"><img src="images/boton-leycodigos.jpg"></a></li><li><a href="https://www.facebook.com/pages/Secretar%C3%ADa-de-Gobierno-de-Guanajuato/124047777702377?fref=ts" target="_blank"><img src="images/boton-facebook.jpg"></a></li><li><a href="/sesesp" target="_blank"><img src="images/boton-ejecutivo.jpg"></a></li>
+</ul>
+<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
+
+</div><!--// in //-->
+</div><!--// container //-->
+

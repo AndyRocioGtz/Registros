@@ -1,3 +1,5 @@
+<div class="container">
+  <div class="in">
 <?php
 $rpc = new OpenERP();
 
@@ -21,7 +23,6 @@ $rpc = new OpenERP();
         <th>Oficina</th>
         <th>Domicilio </th>
         <th>Telefono del Registro Público </th> 
-        <th>Telefono Particular </th>
         <th>Correo </th> 
         <th>Partido Judicial</th>
       </tr>
@@ -38,7 +39,7 @@ $rpc = new OpenERP();
       echo "<td>" . $municipio[0]['name']. "</td>";
       echo "<td>" . $domicilio[0]['name']. "</td>";
       echo "<td>" .$p['telefono_rp'] . "</td>";
-      echo "<td>" . $p['tel_particular'] .  "</td>";
+      // echo "<td>" . $p['tel_particular'] .  "</td>";
       echo "<td>" . $p['correo'] . "</td>";
       echo "<td>";
           foreach ($pjudicial as $m){
@@ -53,3 +54,5 @@ $rpc = new OpenERP();
     </div>
     ";
 ?>
+</div> <!-- IN -->
+</div><!-- CONTAINER -->

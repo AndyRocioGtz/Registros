@@ -1,7 +1,9 @@
+<div class="container">
+<div class="in">
 <div class="container-fluid text-center">    
   <div class="row content">
     <div class="col-sm-9 text-left"> 
-      <h3>Consulta Remota</h3>
+      <h2>Consulta Remota</h2>
       <br>
       <p class="text-justify p">
         El servicio de Consulta Remota de la Dirección de Registros Públicos de la Propiedad
@@ -14,24 +16,26 @@
         sin necesidad de acudir a una de las oficinas del mismo.
       <br>
       <br>
-      <mark> Beneficios</mark>
+      <strong> Beneficios</strong>
         <li>Búsquedas confiables y con mayor rapidez. </li>
         <li>Ahorro de tiempo, dinero y traslado a los Registros Públicos del Estado.</li>
         <li>El manejo del portal, es sencillo y amigable.</li>
       <br>
 
-      <mark>Requisitos para nueva subscripción (anual)</mark>
+      <strong>Requisitos para nueva subscripción (anual)</strong>
         <li>Comprobante de domicilio.</li>
         <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de  $ 1,274.00</li>
         <li>Identificación oficial vigente (en caso de ser persona moral, identificación de la persona responsable de la cuenta).</li>
         <li>Número de teléfono de contacto.</li>
       <br>
 
-      <mark>Renovación anual de cuenta</mark>
+      <strong>Renovación anual de cuenta</strong>
       <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $ 1,274.00</li>
       <li>Nombre de usuario y contraseña anteriores.</li>
       <li>Número de teléfono de contacto.</li>
       </p>
+      <br>
+      <br>
       <hr>
       <p class="p text-center"><strong>
         "En términos del artículo 86 del Reglamento del Registro Público de la
@@ -59,7 +63,7 @@
       </div>
       <div class="well">
         <p>
-        <mark>Soporte técnico y configuración, en atención con :</mark>
+        <strong>Soporte técnico y configuración, en atención con :</strong>
         <br><br>
           <strong>Erika Susana Hernández Gutierrez</strong>
           <br><br>
@@ -70,7 +74,7 @@
 
       <div class="well">
         <p>
-        <mark>Opciones de entrar al Sistema</mark>
+        <strong>Opciones de entrar al Sistema</strong>
         <br>
         <br>
         <em><strong>Sistema Operativo:</strong> Windows XP, 7, 8, 10 o Mac.
@@ -89,3 +93,5 @@
     </div>
   </div>
 </div>
+</div><!--// in //-->
+</div><!--// container //-->

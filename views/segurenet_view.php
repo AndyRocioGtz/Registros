@@ -1,4 +1,6 @@
-<div id="portfolio" class="container-fluid text-center bg-grey">
+
+<div class="container">
+  <div class="in">
   <h2>SEGUREnet</h2>
   <p class="text-justify p">
     SEGUREnet es el portal de Internet mediante el cual el Gobierno del Estado 
@@ -83,3 +85,6 @@
       </div>
     </div>
 </div>
+
+  </div>   <!-- in -->
+</div><!-- container -->
