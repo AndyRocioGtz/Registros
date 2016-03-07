@@ -14,15 +14,15 @@
 
     <!-- Bootstrap core CSS --> 
     <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../dist/css/jumbotron .css" rel="stylesheet">
+    <link href="../dist/css/theme.css" rel="stylesheet">
     <link href="../dist/css/carousel.css" rel="stylesheet">
     <link href="../dist/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> 
 
     <!-- Custom styles for this template --><!-- 
     <link href="../dist/css/jumbotron-narrow.css" rel="stylesheet">  -->
 
-    <link href="../dist/css/style.css" rel="stylesheet">
-    <link href="../dist/css/normalize.css" rel="stylesheet">
+    <link href="../dist/css/style.css" rel="stylesheet" type="text/css">
+    <link href="../dist/css/normalize.css" rel="stylesheet" type="text/css">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -37,14 +37,14 @@
     <div class="in">
       
     <header>
-    <a href="index.php" class="logotipo">
+    <a href="/" class="logotipo">
       <img src="../dist/images/logotipo.png" 
         alt="Dirección General del Registro Publico de la Propiedad y Notarías">
     </a>
     <h1><?php echo $projectName;?></h1>
 
 
-    <div class="search">
+<!--     <div class="search">
         <div id='cse' style='width: 100%;'>
            <form method="get" action="http://www.google.com/search">
             <div>
@@ -80,14 +80,14 @@
                 customSearchControl.draw('cse', options);
                 }, true);
             </script>
-    </div>
+    </div> -->
 
 
       <ul>
       <li><a href="../index.php">Inicio</a></li>
       <li><a href="../views/tree.php">Directorio de Oficinas</a></li>
-      <li><a href="/">Directorio de Notarías</a></li>
-      <li><a href="/">Portal Notarial</a></li>
+<!--       <li><a href="/">Directorio de Notarías</a></li>
+      <li><a href="/">Portal Notarial</a></li> -->
       <li><a href="../views/about.php">Conócenos</a></li>
       <li><a href="../views/contact.php">Contacto</a></li>
       </ul>
