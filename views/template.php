@@ -121,7 +121,7 @@
       </li>
 
       <li>
-        <p><img src="http://sg.guanajuato.gob.mx/images/holagto.png"></p>
+        <p><img src="../dist/images/holagto.png"></p>
         <p><a href="http://sg.guanajuato.gob.mx/telefonosservicio.php" target="_blank">Teléfonos de servicio</a></p>
         <a href="http://www.guanajuato.gob.mx/telefonos-emergencia.php" target="_blank">
         <img src="http://sg.guanajuato.gob.mx/images/icon-phone.svg">Emergencias
@@ -131,20 +131,19 @@
       <li>
       <span>▪ No olvides que:</span>
       <p>
-      <img src="http://sg.guanajuato.gob.mx/images/icon-mail.jpg">
-      Tus <a href="contacto.php">comentarios</a> sobre el sitio
-      son muy importantes </p>
+      <img src="../dist/images/icon-mail.jpg">
+      Tus <a href="../views/contact.php">comentarios</a> 
+      sobre el sitio son muy importantes </p>
 
       <p>
-      <img src="http://sg.guanajuato.gob.mx/images/icon-smart.jpg">
-      Sitio web compatible
-      con dispositivos móviles
+      <img src="../dist/images/icon-smart.jpg">
+      Sitio web compatible con dispositivos móviles
       </p>
       </li>
       </ul>
 
 
-      <img src="http://sg.guanajuato.gob.mx/images/impulso-guanajuato.png" class="logoimpulso">
+      <img src="../dist/images/impulso-guanajuato.png" class="logoimpulso">
     </div><!-- in -->
 </footer>
 

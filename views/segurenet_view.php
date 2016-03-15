@@ -14,20 +14,22 @@
 
   <br>
   <br>
-  <br>
    
   <div class="col-sm-3 sidenav color">
   </div>
 
-  <div class="col-sm-6 sidenav color">   
+  <div class="col-sm-6 sidenav color" align="center">   
         <a href="http://www.erpp.guanajuato.gob.mx/segurenet">
         <p>
           <strong>
-            <img src="../dist/images/sn2.png" width="110" height="100">
+            <img src="../dist/images/sn.PNG" width="140" height="120">
             <br><br>
           <em>Entrar al Portal</em>
            SEGUREnet
            </strong>
+           <br>
+           <br>
+           <br>
         </p>
         </a>
   </div> 

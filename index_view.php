@@ -23,37 +23,37 @@
 <!-- segurenet -->
 <li>
 <a href="views/segurenet.php">
-<img src="../dist/images/sn2.png" width="110" height="100">
+<img src="../dist/images/icono2.JPG">
 </a>
 </li>
 <!-- Consulta Remota -->
 <li>
 <a href="views/consultaremota.php">
-<img src="../dist/images/global-search-icon.jpg">
+<img src="../dist/images/icono1.JPG">
 </a>
 </li>
-<!-- Precaptura -->
+<!-- Precaptura abierta-->
 <li>
 <a href="http://www.erpp.guanajuato.gob.mx/precaptura/">
-<img src="../dist/images/gto1.gif">
-</a>
-</li>
-<!-- SIGER -->
-<li>
-<a href="http://www.siger.gob.mx/">
-<img src="../dist/images/mex.gif">
+<img src="../dist/images/icono3.JPG">
 </a>
 </li>
 <!-- Certificados en linea -->
 <li>
 <a href="http://www.erpp.guanajuato.gob.mx/serv_electronicos/">
-<img src="../dist/images/pagos-en-lc3adnea-de-la-alcaldc3ada-de-manizales.png">
+<img src="../dist/images/icono4.JPG">
+</a>
+</li>
+<!-- Validación de Boletas de Resolución -->
+<li>
+<a href="http://www.erpp.guanajuato.gob.mx/consultaerpp/">
+<img src="../dist/images/icono5.JPG">
 </a>
 </li>
 <!-- Estrados -->
 <li>
 <a href="http://www.erpp.guanajuato.gob.mx/estrados/">
-<img src="">
+<img src="../dist/images/icono6.JPG">
 </a>
 </li>
 
@@ -65,10 +65,10 @@
 <ul class="direccionesmenu">
 <li>Información</li>
 <li><a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/">Trámites y Servicios</a></li>
-<li><a href="/">Portal Notarial</a></li>
+<li><a href="http://www.siger.gob.mx/">Sistema Integral de Gestión Registral</a></li>
+<li><a href="http://www.rppc.guanajuato.gob.mx/portal/index.php">Portal Notarial</a></li>
 <li><a href="http://www.rppc.guanajuato.gob.mx/directorio/">Direccion de Notarías</a></li>
-<li><a href="/">Buzón de Quejas y Sugerencias</a></li><!-- 
-<li><a href="http://periodico.guanaujato.gob.mx/">Periódico Oficial</a></li> -->
+<li><a href="views/contact.php">Buzón de Quejas y Sugerencias</a></li>
 </ul>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////// -->

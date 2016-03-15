@@ -9,3 +9,5 @@ $tpl = "contact_view.php";
 include("template.php");
 ?>
 	
+
+	
