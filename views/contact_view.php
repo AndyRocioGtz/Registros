@@ -41,12 +41,6 @@
     </div>
   </div>
 
-
-
-
-
-
-
   <div class="row">
     <div class="col-lg-3">
           <img class="img-rounded" src="../dist/images/gto-gobierno.png" alt="Generic placeholder image" width="120" height="120">
@@ -69,6 +63,7 @@
     <a href="/"><p><strong>www.rppc.guanajuato.gob.mx<br></strong></a>
     </div>
   </div>
+  
 </div><!-- IN -->
 </div><!-- CONTAINER -->
 

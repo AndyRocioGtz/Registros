@@ -47,7 +47,7 @@
     </div>
     <div class="col-sm-3 sidenav">
       <div class="well">
-        <a href="http://201.109.24.47/pls/portal">
+        <a href="http://201.109.24.47/pls/portal" target="_blank">
         <p>
           <strong>
           <em>Portal</em>
@@ -57,7 +57,7 @@
         </a>
       </div>
       <div class="well">
-        <a href="http://www.rppc.guanajuato.gob.mx/files/registros/conf_conslinea.pdf">
+        <a href="http://www.rppc.guanajuato.gob.mx/files/registros/conf_conslinea.pdf" target="_blank">
         <strong><p>Manual de configuración</p></strong>
         </a>
       </div>
@@ -82,10 +82,10 @@
         <br>
         <strong>Navegador Preferente:</strong>
         <br>
-          <a href="https://www.mozilla.org/es-ES/firefox/new/">
+          <a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank">
             Mozilla Firefox 
           </a>o 
-          <a href="http://www.google.com.mx/chrome/browser/desktop/index.html">
+          <a href="http://www.google.com.mx/chrome/browser/desktop/index.html" target="_blank">
             Google Chrome.</a>
         </em>
         </p>

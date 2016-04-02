@@ -1,6 +1,9 @@
 <div class="container">
   <div class="in">
-  	<h3 align="center">Misión</h3>
+    <br>
+    <br>
+    
+  	<h2 align="center">Misión</h2>
   	<div class="well well-lg text-justify">
       Prestar servicios que garanticen publicidad y seguridad jurídica 
   		de los actos registrales, de conformidad con la legislación aplicable, 
@@ -13,7 +16,7 @@
 
 
 <div class="container">
-  	<h3 align="center">Visión</h3>
+  	<h2 align="center">Visión</h2>
   	<div class="well well-lg text-justify">
       Ser una institución registral, que sea modelo nacional e 
   		internacional preservando el sentido humano, las aspiraciones 
@@ -25,20 +28,12 @@
     </div>
 </div>
 
-<div class="container">
-  	<h3 align="center">Política de Calidad</h3>
-  	<div class="well well-lg text-justify">
-    Prestar servicios registrales de excelencia, 
-  	garantizando seguridad jurídica, en el menor 
-  	tiempo posible.
-  	</div>
-  	<div class="col-lg-12" align="center">
-          <img class="img-rounded" src="../dist/images/Politica.jpg" alt="Generic placeholder image" width="140" height="140">
-    </div>
-</div>
+<br>
+<br>
+<br>
 
 <div class="container">
-  	<h3 align="center">Valores</h3>
+  	<h2 align="center">Valores</h2>
   	<div class="well well-lg">
     <table class="table">
       <tbody>

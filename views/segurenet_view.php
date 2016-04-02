@@ -19,7 +19,7 @@
   </div>
 
   <div class="col-sm-6 sidenav color" align="center">   
-        <a href="http://www.erpp.guanajuato.gob.mx/segurenet">
+        <a href="http://www.erpp.guanajuato.gob.mx/segurenet" target="_blank">
         <p>
           <strong>
             <img src="../dist/images/sn.PNG" width="140" height="120">
@@ -59,7 +59,7 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <a href="http://www.rppc.guanajuato.gob.mx/files/1.pdf">
+      <a href="http://www.rppc.guanajuato.gob.mx/media/segurenet.mp4">
       <div class="thumbnail">
         <img src="../dist/images/asistent.jpg" alt="Lineamientos" width="200" height="300">
         <p><strong>Usando SEGUREnet</strong></p>
@@ -80,13 +80,13 @@
     </div>
     <div class="col-sm-6">
       <div class="thumbnail">
-        <a href="http://www.rppc.guanajuato.gob.mx/files/nrrpp2012.pdf">
+        <a href="http://www.rppc.guanajuato.gob.mx/media/certificados.mp4">
           <img src="../dist/images/certificado.0x200.png" alt="Reglamento" width="220" height="250">
           <p><strong>Instalación de Certificado</strong></p>
         </a>
       </div>
     </div>
-</div>
+  </div>
 
   </div>   <!-- in -->
 </div><!-- container -->
