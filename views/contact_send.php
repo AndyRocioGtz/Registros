@@ -4,8 +4,8 @@ require_once "Mail.php";
 
 if ($_POST) {
 	echo "Cool";
-$from = '<andyrociogtz@gmail.com>';
-$to = '<huguilloadan@gmail.com>';
+$from = '<amrgutierrez@guanajuato.gob.mx>';
+$to = '<andyrociogtz@gmail.com>';
 $subject = 'Hi!';
 $body = "Hi,\n\nHow are you?";
 $name = $_POST['nombre'];
@@ -35,8 +35,8 @@ $smtp = Mail::factory('smtp', array(
         'host' => 'ssl://smtp.gmail.com',
         'port' => '465',
         'auth' => true,
-        'username' => 'andyrociogtz@gmail.com',
-        'password' => 'locoderemate'
+        'username' => 'amrgutierrez@guanajuato.gob.mx',
+        'password' => 'Nopalica92.'
     ));
 echo $smtp;
 $mail = $smtp->send($to, $headers, $body);
