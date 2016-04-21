@@ -9,6 +9,7 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -23,6 +24,9 @@
           <img class="third-slide" src="../dist/images/banner3.jpg" alt="Third slide">
         </div>
 
+        <div class="item">
+          <img class="third-slide" src="../dist/images/banner4.png" alt="Third slide">
+        </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -86,7 +90,7 @@
 			<li><a href="http://www.rppc.guanajuato.gob.mx/directorio/" target="_blank">Direccion de Notarías</a></li>
 			<li><a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/" target="_blank">Trámites y Servicios</a></li>
 			<li><a href="http://www.siger.gob.mx/" target="_blank">SIGER</a></li>
-			<li><a href="views/contact.php">Buzón de Quejas y Sugerencias</a></li>
+			<!-- <li><a href="views/contact.php">Buzón de Quejas y Sugerencias</a></li> -->
 		</ul>
 
 	<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
@@ -94,12 +98,9 @@
 	<ul class="direccionespaneles">
 	  
 	<li><p>
-
+	<!-- <img src="../dist/images/marco-legal-copy.png"> -->
 	<strong>Normatividad...</strong><br>
-	  La información contenida en esta página,relativa a la normatividad estatal y municipal del estado de 
-	  Guanajuato es exclusivamente para difusión y consulta, su finalidad es proporcionar al usuario una
-	  herramienta útil y fácil acceso, por lo que de ninguna manera constituye una publicación oficial con 
-	  validez legal.</p>
+	  Legislación aplicable a la función registral en el Estado de Guanajuato</p>
 	  <a href="views/normatividad.php">Ver más</a>
 	</li>
 

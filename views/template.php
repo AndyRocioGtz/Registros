@@ -47,7 +47,7 @@
       <li><a href="../index.php">Inicio</a></li>
       <li><a href="../views/tree.php">Directorio de Oficinas</a></li>
       <li><a href="../views/about.php">Conócenos</a></li>
-      <li><a href="../views/contact.php">Contacto</a></li>
+      <!-- <li><a href="../views/contact.php">Contacto</a></li> -->
       </ul>
     </div>
 

@@ -64,5 +64,47 @@
           <img class="img-rounded" src="../dist/images/creencias1.jpg" alt="Generic placeholder image" width="210" height="100">
   </div>
 </div>
+
+<br>
+<br>
+<br>
+
+<div class="container">
+    <h2 align="center">Estructura General</h2>
+    <div class="well well-lg">
+    <table class="table">
+      <tbody>
+        <tr>
+          <td><strong>Dirección General:</strong></td>
+          <td>Lic. David Cabrera Morales
+          <br>Director General de  Registros Públicos de la Propiedad y Notarías
+          <br>Calle nueva s/n. Col. Noria Alta CP. 36050
+          <br>Tel. 73 4 16 14, 73 4 16 15, 73 4 16 16, 73 2 45 22
+          <br>Correo-e: dcabreram@guanajuato.gob.mx</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Dirección de Notarías:</strong></td>
+          <td>Director de Área de Notarías  
+          <br>Calle nueva s/n. Col. Noria Alta CP. 36050 
+          <br>Tel. 73 4 16 14, 73 4 16 15, 73 4 16 16, 73 2 45 22</td>
+        </tr>
+        <tr>
+          <td><strong>Dirección de Registros Públicos de la Propiedad y del Comercio:</strong></td>
+          <td>Lic. Salvador Aguilar Torresmata   
+          <br>Director de Área de Registros Públicos de la Propiedad  
+          <br>Calle nueva s/n. Col. Noria Alta CP. 36050 
+          <br>Tel. 73 4 16 14, 73 4 16 15, 73 4 16 16, 73 2 45 22
+          <br>Correo-e: saguilart@guanajuato.gob.mx</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+
+
+
 </div> <!-- IN -->
 </div><!-- CONTAINER -->

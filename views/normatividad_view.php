@@ -10,9 +10,9 @@
       <div class="row text-center slideanim">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <a href="/">
+            <a href="http://www.rppc.guanajuato.gob.mx/files/nrrpp2012.pdf" target="_blank">
               <img src="../dist/images/reglamento.jpg" alt="CDGTO" width="400" height="300">
-              <p><strong>Nuevo Reglamento RPP GTO.</strong></p>
+              <p><strong>Reglamento RPP GTO. 2012 Vigente</strong></p>
             </a>
           </div>
         </div>
@@ -20,7 +20,7 @@
           <div class="thumbnail">
             <a href="http://www.rppc.guanajuato.gob.mx/files/rrppab.pdf" target="_blank">
               <img src="../dist/images/reglamentos-696x400.png" alt="Reglamento" width="400" height="300">
-              <p><strong>Reglamento del Registro Público de la Propiedad</strong></p>
+              <p><strong>Reglamento del Registro Público de la Propiedad Abrogado</strong></p>
             </a>
           </div>
         </div>
@@ -36,7 +36,7 @@
       </div><br>
         <!-- SALTO -->
       <div class="row text-center slideanim">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <a href="http://www.congresogto.gob.mx/uploads/ley/pdf/144/Ley_de_Ingresos_para_el_Estado_de_Guanajuato_para_el_Ejercicio_Fiscal__2016.pdf" target="_blank">
               <img src="../dist/images/AAADinero_0.jpg" alt="ingresos" width="280" height="150">
@@ -46,12 +46,22 @@
           </div>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-sm-4">
+          <div class="thumbnail">
+            <a href="  " target="_blank">
+              <img src="../dist/images/admin_alma.png" alt="ingresos" width="200" height="150">
+              <p><strong>Ley de Ingresos</strong></p>
+              <p>Del Estado de Guanajuato</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
           <a href="http://www.rppc.guanajuato.gob.mx/files/acuerdo-administrativo.pdf" target="_blank">
           <div class="thumbnail">
             <img src="../dist/images/acuerdo.png" alt="acuerdo" width="150" height="100">
-            <p><strong>Acuerdo Admministrativo</strong></p>
-            <p>Cobro de Productos</p>
+            <p><strong>Acuerdo Admministrativo cobro de Productos</strong></p>
+            <p>Criterios Registrales</p>
           </div>
           </a>
         </div>

@@ -19,12 +19,12 @@ $rpc = new OpenERP();
     <table class='table table-striped'> 
     <thead> 
       <tr>
-        <th> Registrador </th>
-        <th>Oficina</th>
-        <th>Domicilio </th>
-        <th>Telefono del Registro Público </th> 
-        <th>Correo </th> 
-        <th>Partido Judicial</th>
+        <th> REGISTRADOR </th>
+        <th>OFICINA</th>
+        <th>DOMICILIO </th>
+        <th>TEL. REGISTRO PÚBLICO </th> 
+        <th>CORREO</th> 
+        <th>PARTIDO JUDICIAL</th>
       </tr>
     <thead/>
     <tbody>";
