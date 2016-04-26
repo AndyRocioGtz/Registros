@@ -50,6 +50,7 @@
         <a href="http://201.109.24.47/pls/portal" target="_blank">
         <p>
           <strong>
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           <em>Portal</em>
            Consulta Remota
            </strong>

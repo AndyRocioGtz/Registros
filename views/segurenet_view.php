@@ -22,7 +22,7 @@
         <a href="http://www.erpp.guanajuato.gob.mx/segurenet" target="_blank">
         <p>
           <strong>
-            <img src="../dist/images/sn.PNG" width="140" height="120">
+            <img src="../dist/images/logo_segurenet.jpg" width="140" height="120">
             <br><br>
           <em>Entrar al Portal</em>
            SEGUREnet

@@ -91,7 +91,7 @@
         <span>▪ No olvides que:</span>
         <p>
         <img src="../dist/images/icon-mail.jpg">
-        Tus <a href="../views/contact.php">comentarios</a> 
+        Tus <!-- <a href="../views/contact.php"> -->comentarios<!-- </a> --> 
         sobre el sitio son muy importantes </p>
 
         <p>
