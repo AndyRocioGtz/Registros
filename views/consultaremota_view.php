@@ -58,7 +58,7 @@
         </a>
       </div>
       <div class="well">
-        <a href="http://www.rppc.guanajuato.gob.mx/files/registros/conf_conslinea.pdf" target="_blank">
+        <a href="../files/conf_conslinea.pdf" target="_blank">
         <strong><p>Manual de configuración</p></strong>
         </a>
       </div>
