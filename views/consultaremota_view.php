@@ -30,7 +30,7 @@
       <br>
 
       <strong>Renovación anual de cuenta</strong>
-      <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $ 1,274.00</li>
+      <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $ 1,270.00</li>
       <li>Nombre de usuario y contraseña anteriores.</li>
       <li>Número de teléfono de contacto.</li>
       </p>
