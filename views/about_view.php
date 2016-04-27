@@ -15,24 +15,24 @@
     </div>
 
 
-<div class="container">
-  	<h2 align="center">Visión</h2>
-  	<div class="well well-lg text-justify">
-      Ser una institución registral, que sea modelo nacional e 
-  		internacional preservando el sentido humano, las aspiraciones 
-  		de paz social y seguridad jurídica, con tecnología de vanguardia 
-  		y en un marco jurídico actualizado.
-  	</div>
-  	<div class="col-lg-12" align="center">
-          <img class="img-rounded" src="../dist/images/vision.png" alt="Generic placeholder image" width="140" height="140">
+    <div class="container">
+      	<h2 align="center">Visión</h2>
+      	<div class="well well-lg text-justify">
+          Ser una institución registral, que sea modelo nacional e 
+      		internacional preservando el sentido humano, las aspiraciones 
+      		de paz social y seguridad jurídica, con tecnología de vanguardia 
+      		y en un marco jurídico actualizado.
+      	</div>
+      	<div class="col-lg-12" align="center">
+              <img class="img-rounded" src="../dist/images/vision.png" alt="Generic placeholder image" width="140" height="140">
+        </div>
     </div>
-</div>
 
 <br>
 <br>
 <br>
 
-<div class="container">
+  <div class="container">
   	<h2 align="center">Valores</h2>
   	<div class="well well-lg">
     <table class="table">

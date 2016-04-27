@@ -86,10 +86,11 @@
 
 		<ul class="direccionesmenu">
 			<li>Información</li>
-			<li><a href="http://www.rppc.guanajuato.gob.mx/portal/index.php" target="_blank">Portal Notarial</a></li>
-			<li><a href="http://www.rppc.guanajuato.gob.mx/directorio/" target="_blank">Direccion de Notarías</a></li>
+			<li><a href="/" >Portal Notarial</a></li>
+			<li><a href="views/dirnotarias.php">Direccion de Notarías</a></li>
 			<li><a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/" target="_blank">Trámites y Servicios</a></li>
 			<li><a href="http://www.siger.gob.mx/" target="_blank">SIGER</a></li>
+			<li><a href="http://finanzas.guanajuato.gob.mx/" target="_blank">Finanzas</a></li>
 			<!-- <li><a href="views/contact.php">Buzón de Quejas y Sugerencias</a></li> -->
 		</ul>
 

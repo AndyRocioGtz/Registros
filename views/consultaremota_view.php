@@ -24,7 +24,7 @@
 
       <strong>Requisitos para nueva subscripción (anual)</strong>
         <li>Comprobante de domicilio.</li>
-        <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de  $ 1,274.00</li>
+        <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de  $ $1,270.00</li>
         <li>Identificación oficial vigente (en caso de ser persona moral, identificación de la persona responsable de la cuenta).</li>
         <li>Número de teléfono de contacto.</li>
       <br>
