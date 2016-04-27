@@ -2,29 +2,30 @@
 <div class="in">
 <div class="container-fluid text-center">    
   <div class="row content">
-    <div class="col-sm-9 text-left"> 
+    <div class="col-sm-12 text-left"> 
       <h2 align="center">Dirección de Notarías</h2>
       <br>
       <p class="text-justify p">
         <h3>Misión</h3>
         Contribuir con apego al marco legal a reunir, conservar, organizar y facilitar 
-        los documentos que constituyen el Patrimonio Documental Notarial del Estado de 
-        Guanajuato, mediante el uso de infraestructura tecnológica de vanguardia, así como 
-        vigilar objetiva y profesionalmente las actividades del Notario Público, para lograr 
-        la satisfacción total en la prestación de nuestros servicios, garantizando certeza 
-        jurídica y paz social, con la integración de una mejora continua en nuestros procesos.
+        los documentos que constituyen el Patrimonio Documental Notarial del Estado de Guanajuato, 
+        mediante el uso de infraestructura tecnológica de vanguardia, así como vigilar objetiva y 
+        profesionalmente las actividades del Notario Público, para lograr la satisfacción total en 
+        la prestación de nuestros servicios, garantizando certeza jurídica y paz social, con la 
+        integración de una mejora continua en nuestros procesos.
+      
       <br>
       <br>
       <div align="center">
           <img class="img-r3unded" src="../dist/images/mision.png" alt="Generic placeholder image" width="140" height="140">
       </div>
       <h3>Visión</h3>
-        Brindar servicios de Excelencia, en la Dirección y control de la función y trámites 
-        notariales y del Archivo de Notarias, con verdadero sentido humanista, comprometidos 
-        a preservar la paz y justicia buscando ser modelo a nivel nacional sobre la base de 
-        los valores que repercutan positivamente en la calidad de los servicios investidos de 
-        certeza jurídica, en beneficio de la satisfacción ciudadana y con el uso de tecnología 
-        de punta con el compromiso de buscar una mejora continua permanente.
+        Brindar servicios de Excelencia, en la Dirección y control de la función y trámites notariales 
+        y del Archivo de Notarias, con verdadero sentido humanista, comprometidos a preservar la paz y 
+        justicia buscando ser modelo a nivel nacional sobre la base de los valores que repercutan 
+        positivamente en la calidad de los servicios investidos de certeza jurídica, en beneficio de 
+        la satisfacción ciudadana y con el uso de tecnología de punta con el compromiso de buscar una 
+        mejora continua permanente.
         <br>
         <br>
         <div align="center">
@@ -78,12 +79,12 @@
     </table>
     </div>
 
-    <div class="col-sm-3 sidenav">
+    <!-- <div class="col-sm-3 sidenav">
       <div class="well">
         <a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/" target="_blank">
         <p>
           <strong>
-         <!--  <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Trámites y Servicios más consultados
            </strong>
         </p>
@@ -91,11 +92,10 @@
       </div>
 
       <div class="well">
-        <!-- +++++++++++++++++++++++++++++++++++++++++ -->
         <a href="../views/legislacion.php">
         <p>
           <strong>
-          <!-- <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Legislación
            </strong>
         </p>
@@ -106,7 +106,7 @@
         <a href="/">
         <p>
           <strong>
-          <!-- <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Dirección de Notarios
            </strong>
         </p>
@@ -117,7 +117,7 @@
         <a href="/">
         <p>
           <strong>
-          <!-- <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Guía de Protocolo
           </strong>
         </p>
@@ -128,7 +128,7 @@
         <a href="/" >
         <p>
           <strong>
-          <!-- <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Manual de Visitas de Inspección
            </strong>
         </p>
@@ -139,14 +139,14 @@
         <a href="/">
         <p>
           <strong>
-          <!-- <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120"> -->
+          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
           Calendario de Visitas de Inspección
            </strong>
         </p>
         </a>
       </div>
+    </div> -->
 
-    </div>
   </div>
 </div>
 </div><!--// in //-->
