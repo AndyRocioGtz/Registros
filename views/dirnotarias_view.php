@@ -84,7 +84,7 @@
 
     <div class="col-sm-3 sidenav">
       <div class="well">
-        <a href="../views/directnotarios.php">
+        <a href="http://www.erpp.guanajuato.gob.mx/dirnot/" target="_blank">
         <p>
           <img src="../dist/images/directorio.png" width="200" height="80">
         </p>
