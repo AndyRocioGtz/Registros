@@ -2,7 +2,7 @@
 <div class="in">
 <div class="container-fluid text-center">    
   <div class="row content">
-    <div class="col-sm-12 text-left"> 
+    <div class="col-sm-9 text-left"> 
       <h2 align="center">Dirección de Notarías</h2>
       <br>
       <p class="text-justify p">
@@ -17,8 +17,11 @@
       <br>
       <br>
       <div align="center">
-          <img class="img-r3unded" src="../dist/images/mision.png" alt="Generic placeholder image" width="140" height="140">
+          <!-- <img class="img-rounded" src="../dist/images/not_846_20151127102553.png" alt="Generic placeholder image" width="200" height="130"> -->
       </div>
+      <br>
+      <br>
+
       <h3>Visión</h3>
         Brindar servicios de Excelencia, en la Dirección y control de la función y trámites notariales 
         y del Archivo de Notarias, con verdadero sentido humanista, comprometidos a preservar la paz y 
@@ -29,7 +32,7 @@
         <br>
         <br>
         <div align="center">
-          <img class="img-rounded" src="../dist/images/vision.png" alt="Generic placeholder image" width="140" height="140">
+          <img class="img-rounded" src="../dist/images/0B-6kS1GI101SaHBpSWN3b21aMzA.jpg" alt="Generic placeholder image" width="200" height="130">
         </div>
         <br>
         <br>
@@ -79,19 +82,16 @@
     </table>
     </div>
 
-    <!-- <div class="col-sm-3 sidenav">
+    <div class="col-sm-3 sidenav">
       <div class="well">
-        <a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/" target="_blank">
+        <a href="../views/directnotarios.php">
         <p>
-          <strong>
-          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
-          Trámites y Servicios más consultados
-           </strong>
+          <img src="../dist/images/directorio.png" width="200" height="80">
         </p>
         </a>
       </div>
 
-      <div class="well">
+      <!-- <div class="well">
         <a href="../views/legislacion.php">
         <p>
           <strong>
@@ -144,8 +144,8 @@
            </strong>
         </p>
         </a>
-      </div>
-    </div> -->
+      </div> -->
+    </div>
 
   </div>
 </div>

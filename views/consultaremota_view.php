@@ -35,6 +35,13 @@
       <li>Número de teléfono de contacto.</li>
       </p>
       <br>
+      Enviar la documentación digitalizada a la dirección de correo:
+      <strong>consultaremota@guanajuato.gob.mx</strong>
+      <br>
+      <br>
+      La información de la cuenta será enviada a la dirección de correo 
+      de donde se envía la documentación.      
+      <br>
       <br>
       <hr>
       <p class="p text-center"><strong>

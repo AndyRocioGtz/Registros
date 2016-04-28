@@ -23,9 +23,19 @@
     <link href="../dist/css/normalize.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../dist/css/theme.css">
 
+    <link rel="stylesheet" href="../dist/datatables/css/jquery.dataTables.css">
+    <!-- <link href="..dist/datatables/css/jquery.dataTables.css"> -->
+
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../dist/datatables/js/jquery.js"></script>
+    <script src="../dist/datatables/js/jquery.dataTables.js"></script>
+   
+    
     <script src="../dist/assets/js/ie-emulation-modes-warning.js"></script>
+
+
+
     
 
   </head>
@@ -117,6 +127,8 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../dist/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../dist/datatables/js/jquery.js"></script>
+    <script src="../dist/datatables/js/jquery.dataTables.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="../dist/assets/js/vendor/holder.min.js"></script>

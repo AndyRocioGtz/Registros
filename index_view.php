@@ -74,7 +74,8 @@
 </li>
 <!-- Estrados -->
 <li>
-<a href="http://www.erpp.guanajuato.gob.mx/estrados/" target="_blank">
+<!-- <a href="http://www.erpp.guanajuato.gob.mx/estrados/" target="_blank"> -->
+<a href="views/estrados.php">
 <img src="../dist/images/icono6.png">
 </a>
 </li>
