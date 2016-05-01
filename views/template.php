@@ -56,6 +56,7 @@
       <ul>
       <li><a href="../index.php">Inicio</a></li>
       <li><a href="../views/tree.php">Directorio de Oficinas</a></li>
+      <li><a href="http://www.erpp.guanajuato.gob.mx/dirnot/" target="_blank">Directorio de Notarias</a></li>
       <li><a href="../views/about.php">Conócenos</a></li>
       <!-- <li><a href="../views/contact.php">Contacto</a></li> -->
       </ul>
