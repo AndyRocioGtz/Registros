@@ -44,7 +44,7 @@
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <a href="http://www.rppc.guanajuato.gob.mx/files/registros/FORMATO_SUSCRIPCION_SEGUREnet.doc">
+        <a href="../files/docssegurenet/FORMATO_SUSCRIPCION_SEGUREnet.doc" target="_blank">
           <img src="../dist/images/documentación.jpg" alt="CDGTO" width="400" height="300">
           <p><strong>Formato de Alta</strong></p>
         </a>
@@ -52,14 +52,14 @@
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <a href="http://www.rppc.guanajuato.gob.mx/media/pam.mp4">
+        <a href="../files/docssegurenet/pam.mp4" target="_blank">
           <img src="../dist/images/sepulveda-engranes.jpg" alt="Reglamento" width="250" height="300">
           <p><strong>Creación de PAMS</strong></p>
         </a>
       </div>
     </div>
     <div class="col-sm-4">
-      <a href="http://www.rppc.guanajuato.gob.mx/media/segurenet.mp4">
+      <a href="../files/docssegurenet/segurenet.mp4" target="_blank">
       <div class="thumbnail">
         <img src="../dist/images/asistent.jpg" alt="Lineamientos" width="200" height="300">
         <p><strong>Usando SEGUREnet</strong></p>
@@ -71,16 +71,16 @@
   <div class="row text-center slideanim">
     <div class="col-sm-6">
       <div class="thumbnail">
-        <a href="http://www.rppc.guanajuato.gob.mx/media/segurenet.mp4">
+        <a href="../files/docssegurenet/java.mp4" target="_blank">
           <img src="../dist/images/Java-logo-good.png" alt="CDGTO" width="192" height="250">
           <p><strong>Instalación de Java</strong></p>
-          <a href="https://www.java.com/es/"><p>Descargar JAVA</p></a>
+          <a href="https://www.java.com/es/" target="_blank"><p>Descargar JAVA</p></a>
         </a>
       </div>
     </div>
     <div class="col-sm-6">
       <div class="thumbnail">
-        <a href="http://www.rppc.guanajuato.gob.mx/media/certificados.mp4">
+        <a href="../files/docssegurenet/certificados.mp4" target="_blank">
           <img src="../dist/images/certificado.0x200.png" alt="Reglamento" width="220" height="250">
           <p><strong>Instalación de Certificado</strong></p>
         </a>
