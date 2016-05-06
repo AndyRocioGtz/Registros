@@ -2,6 +2,10 @@
   <div class="in">
     <div id="portfolio" class="container-fluid text-center bg-grey">
       <h2>Normatividad</h2>
+      <div>
+        <a href="../views/dirdgrpp.php">
+        <button type="button" class="btn btn-success">Regresar a Dir.Registros Públicos</button></a>
+      </div>
       <p class="text-justify p">
       </p>
       <br>

@@ -38,7 +38,7 @@
 
     
 
-  </head>
+</head>
 
 <body id="index">
 
@@ -58,7 +58,7 @@
       <li><a href="../views/tree.php">Directorio de Oficinas</a></li>
       <li><a href="http://www.erpp.guanajuato.gob.mx/dirnot/" target="_blank">Directorio de Notarias</a></li>
       <!-- <li><a href="../views/directnotarios.php">Directorio de Notarias</a></li> -->
-      <li><a href="../views/about.php">Conócenos</a></li>
+      <li><a href="../views/estruct.php">Estructura General</a></li>
       <!-- <li><a href="../views/contact.php">Contacto</a></li> -->
       </ul>
     </div>
@@ -132,6 +132,8 @@
     <script src="../dist/datatables/js/jquery.js"></script>
     <script src="../dist/datatables/js/jquery.dataTables.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
+<!--     <!script src="jquery/jquery-1.6.4.min.js" type="text/javascript"><!/script> 
+    <!script type="text/javascript" src="includes/datepickercontrol.js"><!/script> -->
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="../dist/assets/js/vendor/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

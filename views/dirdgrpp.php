@@ -5,7 +5,6 @@ $pagetitle = "v0.1";
 $projectName = "Dirección General de Registros Públicos de la Propiedad y Notarías";
 
 //and then call a template:
-$tpl = "about_view.php";
+$tpl = "dirdgrpp_view.php";
 include("template.php");
 ?>
-	

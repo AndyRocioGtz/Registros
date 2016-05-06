@@ -2,7 +2,7 @@
 <div class="in">
 <div class="container-fluid text-center">    
   <div class="row content">
-    <div class="col-sm-12 text-left"> 
+    <div class="col-sm-9 text-left"> 
       <h2 align="center">Dirección de Notarías</h2>
       <br>
       <p class="text-justify p">
@@ -82,7 +82,21 @@
     </table>
     </div>
 
-    <!-- <div class="col-sm-3 sidenav">
+    <div class="col-sm-3 sidenav">
+      
+      <div class="well">
+        <a href="http://10.200.2.246/portal/index.php" target="_blank">
+        <p>
+          <strong>
+          <img src="../dist/images/notarias.jpg.1" width="140" height="120">
+          Portal Notarial
+           </strong>
+        </p>
+        </a>
+      </div>
+
+
+
       <div class="well">
         <a href="http://www.erpp.guanajuato.gob.mx/dirnot/" target="_blank">
         <p>
@@ -92,17 +106,18 @@
       </div>
 
       <div class="well">
-        <a href="../views/legislacion.php">
+        <a href="http://normatividadestatalymunicipal.guanajuato.gob.mx/" target="_blank">
         <p>
           <strong>
-          <img src="../dist/images/logo_consulta_remota.jpg" width="140" height="120">
+          <img src="../dist/images/legislacion.jpg" width="140" height="120">
           Legislación
            </strong>
         </p>
         </a>
       </div>
 
-      <div class="well">
+
+      <!-- <div class="well">
         <a href="/">
         <p>
           <strong>
@@ -144,8 +159,8 @@
            </strong>
         </p>
         </a>
-      </div>
-    </div> -->
+      </div> -->
+    </div>
 
   </div>
 </div>

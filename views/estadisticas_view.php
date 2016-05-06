@@ -7,6 +7,10 @@
 	<br>
 	<br>
 	<br>
+  <div>
+        <a href="../views/dirdgrpp.php">
+        <button type="button" class="btn btn-success">Regresar a Dir.Registros Públicos</button></a>
+      </div>
 
 <h3>
 	<strong>REGISTRO PÚBLICO DE LA PROPIEDAD</strong>
