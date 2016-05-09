@@ -25,7 +25,7 @@
         </div>
 
         <div class="item">
-          <img class="third-slide" src="../dist/images/ya5.png" alt="Third slide">
+          <img class="third-slide" src="../dist/images/banner4.jpg" alt="Third slide">
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
