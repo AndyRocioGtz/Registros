@@ -25,7 +25,9 @@
         </div>
 
         <div class="item">
+        	<a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">
           <img class="third-slide" src="../dist/images/banner4.jpg" alt="Third slide">
+          </a>
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
