@@ -28,6 +28,13 @@
         <li>Identificación oficial vigente (en caso de ser persona moral, identificación de la persona responsable de la cuenta).</li>
         <li>Número de teléfono de contacto.</li>
       <br>
+      <hr>
+      <strong>Realiza tu trámite de Consulta Remota <a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">Aquí</a> 
+      </strong>
+      <hr>
+      <br>
+      <br>
+      <br>
 
       <strong>Renovación anual de cuenta</strong>
       <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $ 1,270.00</li>
