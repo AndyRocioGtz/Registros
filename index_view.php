@@ -95,6 +95,7 @@
 			<li><a href="http://finanzas.guanajuato.gob.mx/" target="_blank">Finanzas</a></li>
 			<li><a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">Pagos en Línea</a></li>
 			<li><a href="http://eguanajuato.gob.mx/" target="_blank">Firma Electrónica</a></li>
+			<li><a href="http://cfdi.guanajuato.gob.mx/cfdi/public/cfdi" target="_blank">Comprobantes Fiscales (CFDI)</a></li>
 			<!-- <li><a href="views/contact.php">Buzón de Quejas y Sugerencias</a></li> -->
 		</ul>
 
