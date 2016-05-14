@@ -30,6 +30,7 @@
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../dist/datatables/js/jquery.js"></script>
     <script src="../dist/datatables/js/jquery.dataTables.js"></script>
+    <script src="../dist/js/estrados.js"></script>
    
     
     <script src="../dist/assets/js/ie-emulation-modes-warning.js"></script>
