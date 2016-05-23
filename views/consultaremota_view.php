@@ -28,15 +28,7 @@
         <li>Identificación oficial vigente (en caso de ser persona moral, identificación de la persona responsable de la cuenta).</li>
         <li>Número de teléfono de contacto.</li>
       <br>
-      <hr>
-      <strong>Da click <a href="https://pagosenlinea.guanajuato.gob.mx/public/seleccionarServicio?servicio=DD19" 
-        target="_blank"> <em>aquí</em> </a> para obtener tu línea de captura con el cual podrás pagar tu servicio de Consulta Remota.
-      </strong>
-      <hr>
       <br>
-      <br>
-      <br>
-
       <strong>Renovación anual de cuenta</strong>
       <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $ 1,270.00</li>
       <li>Nombre de usuario y contraseña anteriores.</li>
@@ -52,12 +44,20 @@
       <br>
       <br>
       <hr>
-      <p class="p text-center"><strong>
+      <br>
+      <br>
+      <strong>Da click <a href="https://pagosenlinea.guanajuato.gob.mx/public/seleccionarServicio?servicio=DD19" 
+      target="_blank"> <em>aquí</em> </a> para obtener tu línea de captura con el cual podrás pagar tu subcripción o renovación del
+                      servicio de Consulta Remota.
+      </strong>
+      <br>
+      <br>
+      <hr>
+      <p class="p text-center">
         "En términos del artículo 86 del Reglamento del Registro Público de la
         Propiedad para el Estado de Guanajuato, la información  contenida
         en la consulta remota es de carácter informativa y no tiene
         validez legal alguna."
-        </strong>
       </p>
     </div>
     <div class="col-sm-3 sidenav">
