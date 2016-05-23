@@ -29,7 +29,8 @@
         <li>Número de teléfono de contacto.</li>
       <br>
       <hr>
-      <strong>Realiza tu trámite de Consulta Remota <a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">Aquí</a> 
+      <strong>Da click <a href="https://pagosenlinea.guanajuato.gob.mx/public/seleccionarServicio?servicio=DD19" 
+        target="_blank"> <em>aquí</em> </a> para obtener tu línea de captura con el cual podrás pagar tu servicio de Consulta Remota.
       </strong>
       <hr>
       <br>
