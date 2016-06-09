@@ -10,6 +10,7 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -25,6 +26,11 @@
         </div>
 
         <div class="item">
+        	<img class="third-slide" src="../dist/images/banner5.jpg" alt="Third slide">
+          </a>
+        </div>
+
+          <div class="item">
         	<a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">
           <img class="third-slide" src="../dist/images/banner4.jpg" alt="Third slide">
           </a>
