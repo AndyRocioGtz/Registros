@@ -119,20 +119,20 @@
 	<li><p>
 	<!-- <img src="../dist/images/marco-legal-copy.png"> -->
 	<strong>Dir. de Registros Públicos</strong><br>
-	El Registro Público de la Propiedad del Estado de Guanajuato es una institución 
-	de la Secretaría de Gobierno del Estado de Guanajuato que tiene como fin dar 
+	El Registro Público de la Propiedad del Estado de Guanajuato es una institución
+	de la Secretaría de Gobierno del Estado de Guanajuato que tiene como fin dar
 	publicidad a los actos  que conforme a la ley lo requieran para surtir efectos
 	contra terceros.
 	<br>
-	Con el fin de brindar un mejor servicio en este portal se pone a su disposición la 
-	información necesaria para conocer y realizar cualquier trámite ante el Registro 
+	Con el fin de brindar un mejor servicio en este portal se pone a su disposición la
+	información necesaria para conocer y realizar cualquier trámite ante el Registro
 	Público de la Propiedad y de Registro Público de Comercio.
 	</p>
 	  <a href="views/dirdgrpp.php">Ver más</a>
 	  <!-- <a href="views/normatividad.php">Ver más</a> -->
 	</li>
 
-	  
+
 <!-- 	<li><p>
 	<img src="../dist/images/marco-legal-copy.png">
 	<strong>Normatividad...</strong><br>
@@ -150,10 +150,10 @@
 	<li><p>
 		<span class="glyphicon glyphicon-calendar logo-small"></span>
 		<strong>Calendario</strong><br>
-		En términos de lo dispuesto en el artículo 24, fracción V, inciso g) de la 
-		Ley Orgánica del Poder Ejecutivo del Estado de Guanajuato, así como con fundamento 
-		en lo previsto por los artículos 24 de la Ley del Trabajo de los Servidores Públicos 
-		al Servicio del Estado y de los Municipios y 74 de la Ley Federal del Trabajo, se emite 
+		En términos de lo dispuesto en el artículo 24, fracción V, inciso g) de la
+		Ley Orgánica del Poder Ejecutivo del Estado de Guanajuato, así como con fundamento
+		en lo previsto por los artículos 24 de la Ley del Trabajo de los Servidores Públicos
+		al Servicio del Estado y de los Municipios y 74 de la Ley Federal del Trabajo, se emite
 		el Calendario Oficial que regirá en la Administración Pública Estatal para el año 2016.
 		</p>
 		<a href="http://finanzas.guanajuato.gob.mx/c_calendario/doc/CALENDARIO_DIAS_INHABILES_2016.xlsx">Descargar</a>
