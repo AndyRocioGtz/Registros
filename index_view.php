@@ -10,9 +10,15 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
+          <img class="first-slide" src="../dist/images/aviso_vac.jpg" alt="First slide">
+        </div>
+
+        <div class="item">
           <img class="first-slide" src="../dist/images/banner1.jpg" alt="First slide">
         </div>
 
@@ -28,6 +34,10 @@
         	<a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">
           <img class="third-slide" src="../dist/images/banner4.jpg" alt="Third slide">
           </a>
+        </div>
+        <div class="item">
+        	<a href="http://www.siger.gob.mx/ManUPuSiger20.pdf" target="_blank">
+          <img class="second-slide" src="../dist/images/2siger2.0.png" alt="Second slide">
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -91,7 +101,7 @@
 			<li>Información</li>
 			<li><a href="http://tramitesyservicios.strc.guanajuato.gob.mx/consulta/" target="_blank">Trámites y Servicios</a></li>
 			<!-- <li><a href="http://normatividadestatalymunicipal.guanajuato.gob.mx/" target="_blank">Legislación</a></li> -->
-			<li><a href="http://www.siger.gob.mx/" target="_blank">SIGER</a></li>
+			<li><a href="https://rpc.economia.gob.mx" target="_blank">SIGER 2.0</a></li>
 			<li><a href="http://finanzas.guanajuato.gob.mx/" target="_blank">Finanzas</a></li>
 			<li><a href="https://pagosenlinea.guanajuato.gob.mx/public/servicios?tipoServicio=0017" target="_blank">Pagos en Línea</a></li>
 			<li><a href="http://eguanajuato.gob.mx/" target="_blank">Firma Electrónica</a></li>

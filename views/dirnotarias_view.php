@@ -1,19 +1,19 @@
 <div class="container">
 <div class="in">
-<div class="container-fluid text-center">    
+<div class="container-fluid text-center">
   <div class="row content">
-    <div class="col-sm-9 text-left"> 
+    <div class="col-sm-9 text-left">
       <h2 align="center">Dirección de Notarías</h2>
       <br>
       <p class="text-justify p">
         <h3>Misión</h3>
-        Contribuir con apego al marco legal a reunir, conservar, organizar y facilitar 
-        los documentos que constituyen el Patrimonio Documental Notarial del Estado de Guanajuato, 
-        mediante el uso de infraestructura tecnológica de vanguardia, así como vigilar objetiva y 
-        profesionalmente las actividades del Notario Público, para lograr la satisfacción total en 
-        la prestación de nuestros servicios, garantizando certeza jurídica y paz social, con la 
+        Contribuir con apego al marco legal a reunir, conservar, organizar y facilitar
+        los documentos que constituyen el Patrimonio Documental Notarial del Estado de Guanajuato,
+        mediante el uso de infraestructura tecnológica de vanguardia, así como vigilar objetiva y
+        profesionalmente las actividades del Notario Público, para lograr la satisfacción total en
+        la prestación de nuestros servicios, garantizando certeza jurídica y paz social, con la
         integración de una mejora continua en nuestros procesos.
-      
+
       <br>
       <br>
       <div align="center">
@@ -23,11 +23,11 @@
       <br>
 
       <h3>Visión</h3>
-        Brindar servicios de Excelencia, en la Dirección y control de la función y trámites notariales 
-        y del Archivo de Notarias, con verdadero sentido humanista, comprometidos a preservar la paz y 
-        justicia buscando ser modelo a nivel nacional sobre la base de los valores que repercutan 
-        positivamente en la calidad de los servicios investidos de certeza jurídica, en beneficio de 
-        la satisfacción ciudadana y con el uso de tecnología de punta con el compromiso de buscar una 
+        Brindar servicios de Excelencia, en la Dirección y control de la función y trámites notariales
+        y del Archivo de Notarias, con verdadero sentido humanista, comprometidos a preservar la paz y
+        justicia buscando ser modelo a nivel nacional sobre la base de los valores que repercutan
+        positivamente en la calidad de los servicios investidos de certeza jurídica, en beneficio de
+        la satisfacción ciudadana y con el uso de tecnología de punta con el compromiso de buscar una
         mejora continua permanente.
         <br>
         <br>
@@ -37,21 +37,21 @@
         <br>
         <br>
         <h3>Políticas de Calidad</h3>
-        Coordinar la función notarial a través de la mejora continua para garantizar certeza 
+        Coordinar la función notarial a través de la mejora continua para garantizar certeza
         y seguridad jurídica.
         <br>
         <br>
         <br>
         <h3>Valores</h3>
-        Base de los principios básicos de nuestras decisiones y acciones diarias, ayudándonos a 
-        realizar nuestra visión compartida y cumplir con nuestra misión, con la aplicación misma 
-        de la política de calidad. Demostrando con esto el compromiso a los más altos estándares 
-        de servicio, Dirección y Humanismo, con un ambiente laboral seguro donde los valores sean 
+        Base de los principios básicos de nuestras decisiones y acciones diarias, ayudándonos a
+        realizar nuestra visión compartida y cumplir con nuestra misión, con la aplicación misma
+        de la política de calidad. Demostrando con esto el compromiso a los más altos estándares
+        de servicio, Dirección y Humanismo, con un ambiente laboral seguro donde los valores sean
         suministrados con respeto y dignidad.
       </p>
       <br>
       <br>
-      
+
       <table class="table">
       <tbody>
         <tr>
@@ -83,12 +83,14 @@
     </div>
 
     <div class="col-sm-3 sidenav">
-      
+
       <div class="well">
-        <a href="http://10.200.2.246/portal/index.php" target="_blank">
+       <!-- <a href="http://10.200.2.246/portal/index.php" target="_blank">-->
+       <a href="../views/dirnotarias.php">
         <p>
           <strong>
-          <img src="../dist/images/notarias.jpg.1" width="140" height="120">
+         <!-- <img src="../dist/images/notarias.jpg.1" width="140" height="120">-->
+        <img src="../dist/images/nodisponible.jpg" width="140" height="120">
           Portal Notarial
            </strong>
         </p>
