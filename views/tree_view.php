@@ -1,5 +1,14 @@
 <div class="container">
   <div class="in">
+<div class="alert alert-info">
+     <center>
+     <strong>AVISO:</strong>
+     </center>
+     <br>
+     Estimado usuario le informamos que a partir del 15 de agosto de 2016 la
+     oficina del Registro Público de la Propiedad de Dolores Hidalgo, C. I. N.,
+     Gto., estará ubicada en Calle Rivera del Rio Norte #55-A, Colonia Centro,
+      de dicha ciudad" </div> "</strong></center>
 <?php
 $rpc = new OpenERP();
 
@@ -7,7 +16,7 @@ $rpc = new OpenERP();
     //---------------------------------------------------------------//
     $domain=Array(
     );
-    
+
     $office_ids = $rpc->search('registros.directorio', $domain);
     // READ-----
     $fields = array(
@@ -16,14 +25,14 @@ $rpc = new OpenERP();
     $result = $rpc->read($office_ids, $fields, "registros.directorio");
     echo "
     <div class='table-responsive banner-content'>
-    <table class='table table-striped'> 
-    <thead> 
+    <table class='table table-striped'>
+    <thead>
       <tr>
         <th> REGISTRADOR </th>
         <th>OFICINA</th>
         <th>DOMICILIO </th>
-        <th>TEL. REGISTRO PÚBLICO </th> 
-        <th>CORREO</th> 
+        <th>TEL. REGISTRO PÚBLICO </th>
+        <th>CORREO</th>
         <th>PARTIDO JUDICIAL</th>
       </tr>
     <thead/>
@@ -49,7 +58,7 @@ $rpc = new OpenERP();
     echo "</td>";
       echo "</tr>";
     }
-    echo "</tbody> 
+    echo "</tbody>
     </table>
     </div>
     ";

@@ -14,11 +14,8 @@
         <li data-target="#myCarousel" data-slide-to="5"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <img class="first-slide" src="../dist/images/aviso_vac.jpg" alt="First slide">
-        </div>
 
-        <div class="item">
+        <div class="item active">
           <img class="first-slide" src="../dist/images/banner1.jpg" alt="First slide">
         </div>
 
