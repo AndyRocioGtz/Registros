@@ -1,8 +1,8 @@
 <div class="container">
 <div class="in">
-<div class="container-fluid text-center">    
+<div class="container-fluid text-center">
   <div class="row content">
-    <div class="col-sm-9 text-left"> 
+    <div class="col-sm-9 text-left">
       <h2>Consulta Remota</h2>
       <br>
       <p class="text-justify p">
@@ -24,7 +24,7 @@
 
       <strong>Requisitos para nueva subscripción (anual)</strong>
         <li>Comprobante de domicilio.</li>
-        <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de  $ $1,270.00</li>
+        <li>Comprobante de pago ante la oficina recaudadora del estado por la cantidad de $1,270.00</li>
         <li>Identificación oficial vigente (en caso de ser persona moral, identificación de la persona responsable de la cuenta).</li>
         <li>Número de teléfono de contacto.</li>
       <br>
@@ -39,16 +39,20 @@
       <strong>consultaremota@guanajuato.gob.mx</strong>
       <br>
       <br>
-      La información de la cuenta será enviada a la dirección de correo 
-      de donde se envía la documentación.      
+      La información de la cuenta será enviada a la dirección de correo
+      de donde se envía la documentación.
       <br>
       <br>
       <hr>
       <br>
       <br>
-      <strong>Da click <a href="https://pagosenlinea.guanajuato.gob.mx/public/seleccionarServicio?servicio=DD19" 
+      <strong>Da click <a href="https://pagosenlinea.guanajuato.gob.mx/public/seleccionarServicio?servicio=DD19"
       target="_blank"> <em>aquí</em> </a> para obtener tu línea de captura con el cual podrás pagar tu subcripción o renovación del
                       servicio de Consulta Remota.
+    <br>
+    <br>
+    Obten tu Comprobante Fiscal (CFDI) en el siguiente link: <a href="http://cfdi.guanajuato.gob.mx/cfdi/public/cfdi"
+    target="_blank"> en la sección de Registro Público</a>
       </strong>
       <br>
       <br>
@@ -99,8 +103,8 @@
         <strong>Navegador Preferente:</strong>
         <br>
           <a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank">
-            Mozilla Firefox 
-          </a>o 
+            Mozilla Firefox
+          </a>o
           <a href="http://www.google.com.mx/chrome/browser/desktop/index.html" target="_blank">
             Google Chrome.</a>
         </em>
